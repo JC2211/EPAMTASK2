@@ -39,6 +39,7 @@ public class App {
     			default:System.out.println("Wrong choice");		
     			}
     			break;
+	default:System.out.println("Wrong choice");
     			
     	}
     	
